@@ -115,13 +115,3 @@ User Query
 ## Evaluation
 
 Paper AI includes an automated RAG evaluation pipeline (`evaluate.py`) built on [DeepEval](https://github.com/confident-ai/deepeval).
-
-### Metrics (threshold: 0.7)
-
-| Metric | What It Measures |
-|---|---|
-| **Contextual Precision** | Are the retrieved chunks relevant to the query? |
-| **Contextual Recall** | Does the retrieved context cover all expected information? |
-| **Contextual Relevancy** | Is the context relevant to both the input and the expected output? |
-| **Answer Relevancy** | Does the generated answer actually address the question? |
-| **Faithfulness** | Is the answer grounded in the retrieved context (no hallucination)? |
