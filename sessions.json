@@ -1,0 +1,44 @@
+{
+  "a81628bd-79ad-41c7-a29d-1ac4ae7bbe55": {
+    "id": "a81628bd-79ad-41c7-a29d-1ac4ae7bbe55",
+    "name": "Feedback on Uploaded Paper",
+    "created_at": "2026-07-02T09:01:06.020270",
+    "is_named": true
+  },
+  "52485575-8eb6-40ea-a6d7-b8197084144c": {
+    "id": "52485575-8eb6-40ea-a6d7-b8197084144c",
+    "name": "Feedback on Uploaded Paper",
+    "created_at": "2026-07-02T09:03:57.301284",
+    "is_named": true
+  },
+  "3529ff62-40a2-4e4d-b1c8-c9c91be83793": {
+    "id": "3529ff62-40a2-4e4d-b1c8-c9c91be83793",
+    "name": "Thoughts on CRAG paper",
+    "created_at": "2026-07-02T09:12:43.926863",
+    "is_named": true
+  },
+  "df8a0737-a426-4f4e-8605-552285283d95": {
+    "id": "df8a0737-a426-4f4e-8605-552285283d95",
+    "name": "Uploaded Paper Summary",
+    "created_at": "2026-07-02T09:20:40.585587",
+    "is_named": true
+  },
+  "f2e21a67-bb07-4ec3-abb9-e38b3a87b963": {
+    "id": "f2e21a67-bb07-4ec3-abb9-e38b3a87b963",
+    "name": "Review Uploaded Document",
+    "created_at": "2026-07-02T09:28:33.930350",
+    "is_named": true
+  },
+  "e4bb5a79-d260-4545-9039-6082cbf3d93a": {
+    "id": "e4bb5a79-d260-4545-9039-6082cbf3d93a",
+    "name": "Five Insights on crag_paper",
+    "created_at": "2026-07-02T09:37:22.971041",
+    "is_named": true
+  },
+  "308d3161-9ffe-4312-be26-8bfe6e8f11cc": {
+    "id": "308d3161-9ffe-4312-be26-8bfe6e8f11cc",
+    "name": "OPEC Strategic Response EV Shock",
+    "created_at": "2026-07-02T09:44:30.703984",
+    "is_named": true
+  }
+}
