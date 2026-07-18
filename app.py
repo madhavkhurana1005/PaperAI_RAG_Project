@@ -15,7 +15,7 @@ from backend.paper_loader import load_arxiv, load_document, load_webpage
 from backend.rag_graph import build_graph
 from backend.vector_store import add_paper, list_papers
 
-st.set_page_config(page_title="Papeer", page_icon="📚", layout="centered")
+st.set_page_config(page_title="PAPER AI", page_icon="📚", layout="centered")
 
 
 @st.cache_resource

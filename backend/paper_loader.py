@@ -11,6 +11,9 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 _ARXIV_ID_RE = re.compile(r"(\d{4}\.\d{4,5}(?:v\d+)?)")
 
+
+
+
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
 
