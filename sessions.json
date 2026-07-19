@@ -40,5 +40,17 @@
     "name": "OPEC Strategic Response EV Shock",
     "created_at": "2026-07-02T09:44:30.703984",
     "is_named": true
+  },
+  "340d918a-5ae1-44cc-9c3a-d8249e669fc0": {
+    "id": "340d918a-5ae1-44cc-9c3a-d8249e669fc0",
+    "name": "Top Text-to-SQL Papers",
+    "created_at": "2026-07-18T18:26:18.050935",
+    "is_named": true
+  },
+  "3d86b10a-0b53-4041-b7f7-56a9bc572737": {
+    "id": "3d86b10a-0b53-4041-b7f7-56a9bc572737",
+    "name": "Top Text-to-SQL Papers",
+    "created_at": "2026-07-18T18:39:42.215325",
+    "is_named": true
   }
 }

@@ -115,8 +115,9 @@ def load_arxiv(query: str) -> list[Document]:
     return _load_arxiv_by_id(arxiv_id)
 
 
-def load_document(source: str) -> list[Document]:
+def load_document(source: str | Path) -> list[Document]:
     """Dispatch to the appropriate loader based on URL prefix or file extension."""
+    source = str(source)
     if source.startswith(("http://", "https://")):
         return load_webpage(source)
     ext = Path(source).suffix.lower()

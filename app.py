@@ -292,7 +292,7 @@ with st.sidebar:
         st.caption("No documents loaded yet.")
 
 # ── Page header ────────────────────────────────────────────────────────────────
-st.title("📚 Papeer — Research Paper Assistant")
+st.title("📚 Paper AI — Research Paper Assistant")
 st.markdown(
     "🔍 **Ask questions** from your uploaded papers &nbsp;·&nbsp; "
     "✅ **Verify claims** against recent literature &nbsp;·&nbsp; "
